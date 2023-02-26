@@ -632,16 +632,17 @@ margin-left: 36px;
 }
 
 .button {
-  position: relative;
-  height: 5rem;
-  width: 5rem;
-  border-radius: 50%;
-  top: -1vh; 
-  right: 10vw; 
-  z-index: 2000;
-  text-align: center; 
-  cursor: pointer;
+    position: relative;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    top: 0vh;
+    right: 7vw;
+    z-index: 2000;
+    text-align: center;
+    cursor: pointer;
 }
+
 .background {
   height: 4rem;
   width: 4rem;
